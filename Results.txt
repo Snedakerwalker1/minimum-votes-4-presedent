@@ -1,0 +1,84 @@
+Ok im going to copy and paste over some results:
+
+Test: Resourcefull_Greedy_Find_Fewest(filename="states.txt", kept_values=50)
+A winner has been found
+The vote total is 33255725.0
+The total number of votes is 146591374
+The electoral total is 270
+The states won are   RhodeIsland, Mississippi, SouthCarolina, Hawaii, Alaska, SouthDakota, NorthDakota, Vermont,
+NewMexico, DC, Montana, Idaho, NewHampshire, WestVirginia, Maine, Delaware, Kansas, Nevada, Arkansas, Utah, Oklahoma,
+Connecticut, Nebraska, Wisconsin, Iowa, Alabama, Louisiana, Tennessee, Oregon, Indiana, Minnesota, Arizona, Kentucky,
+Georgia, Maryland, NewJersey, Missouri, Illinois,
+Percent of Voting Population: 33255725.0/146591374= 0.22686004020946007368755544920399 or about 22.69%
+
+Test: Greedy_Find_Fewest(filename="states.txt")
+A winner has been found
+The vote total is 33820226.0
+The total number of votes is 146323374
+The electoral total is 273
+The states won are   Alaska, Mississippi, SouthCarolina, Vermont, NorthDakota, SouthDakota, Hawaii, RhodeIsland,
+Delaware, DC, Montana, NewHampshire, Idaho, Nebraska, WestVirginia, NewMexico, Maine, Arkansas, Nevada, Utah,
+Kansas, Connecticut, Oklahoma, Iowa, Louisiana, Alabama, Kentucky, Oregon, Indiana, Tennessee, Minnesota, Arizona,
+Maryland, Massachusetts, Wisconsin, Missouri, NewJersey, Washington, Georgia,
+Percent of Voting Population: 33820226.0/146323374 = 0.23113344830334489143204147274515 or about 23.11%
+
+Test: Resourcefull_Greedy_Find_Fewest(filename="states.txt", kept_values=25)
+A winner has been found
+The vote total is 33278725.0
+The total number of votes is 146591374
+The electoral total is 271
+The states won are   RhodeIsland, Mississippi, Alaska, SouthCarolina, Delaware, NorthDakota, SouthDakota, Hawaii,
+Vermont, NewMexico, DC, Nebraska, Idaho, WestVirginia, NewHampshire, Montana, Kansas, Nevada, Arkansas, Utah,
+Connecticut, Iowa, Oklahoma, Maine, Maryland, Louisiana, Kentucky, Alabama, Tennessee, Oregon, Arizona, Minnesota,
+Indiana, Georgia, Wisconsin, NewJersey, Massachusetts, Illinois,
+Percent of Voting Population: 33278725.0/146591374 = 0.22701693893666621884586469596772 or about 22.70%
+
+Test: Resourcefull_Greedy_Find_Fewest(filename="states.txt", kept_values=100)
+A winner has been found
+The vote total is 33428225.0
+The total number of votes is 146591374
+The electoral total is 271
+The states won are   WestVirginia, Alaska, Mississippi, SouthCarolina, Hawaii, Vermont, NorthDakota, SouthDakota, DC,
+Montana, Delaware, Nebraska, Idaho, NewMexico, NewHampshire, Nevada, Maine, Arkansas, Kansas, Utah, Connecticut,
+Oklahoma, RhodeIsland, Massachusetts, Louisiana, Iowa, Tennessee, Alabama, Indiana, Oregon, Wisconsin, Arizona,
+Kentucky, Georgia, Maryland, NewJersey, Missouri, Illinois,
+Percent of Voting Population: 33428225.0/146591374 = 0.22803678066350616237487479993195 or about 22.80%
+
+Test: Resourcefull_Greedy_Find_Fewest(filename="states.txt", kept_values=400)
+A winner has been found
+The vote total is 32956724.0
+The total number of votes is 146591374
+The electoral total is 270
+The states won are   WestVirginia, Delaware, Mississippi, SouthCarolina, RhodeIsland, Alaska, Hawaii, SouthDakota,
+NorthDakota, Idaho, Montana, NewHampshire, Nebraska, Maine, NewMexico, DC, Kansas, Nevada, Utah, Arkansas, Vermont,
+Massachusetts, Oklahoma, Louisiana, Connecticut, Minnesota, Iowa, Tennessee, Indiana, Oregon, Maryland, Alabama,
+Georgia, Arizona, NewJersey, Kentucky, NewYork,
+Percent of Voting Population: 32956724.0/146591374 = 0.22482034993409639505800661913436 or about 22.48%
+
+Test: Resourcefull_Greedy_Find_Fewest(filename="states.txt", kept_values=600)
+A winner has been found
+The vote total is 32986724.0
+The total number of votes is 146591374
+The electoral total is 270
+The states won are   NewMexico, RhodeIsland, SouthCarolina, Hawaii, Alaska, Mississippi, SouthDakota, NorthDakota,
+Idaho, DC, Montana, NewHampshire, WestVirginia, Maine, Nebraska, Nevada, Arkansas, Delaware, Vermont, Arizona,
+Connecticut, Oklahoma, Iowa, Kansas, Indiana, Louisiana, Alabama, Oregon, Kentucky, Minnesota, Tennessee, Maryland,
+Massachusetts, Utah, NewYork, Wisconsin, Illinois,
+Percent of Voting Populations: 32986724.0/146591374 = 0.22502500044784354091667085404357 or about 22.50%
+
+Test: Resourcefull_Greedy_Find_Fewest(filename="states.txt", kept_values=1000)
+A winner has been found
+The vote total is 33315224.0
+The total number of votes is 146591374
+The electoral total is 272
+The states won are   Idaho, DC, RhodeIsland, Mississippi, SouthCarolina, SouthDakota, Vermont, NorthDakota, Hawaii,
+Delaware, Montana, NewHampshire, Nebraska, NewMexico, WestVirginia, Nevada, Arkansas, Maine, Connecticut, Kansas,
+Utah, Alaska, Virginia, Iowa, Alabama, Louisiana, Oklahoma, Wisconsin, Indiana, Tennessee, Minnesota, Maryland,
+Massachusetts, Arizona, Georgia, Kentucky, NewYork,
+All tests Passed
+
+
+
+
+
+

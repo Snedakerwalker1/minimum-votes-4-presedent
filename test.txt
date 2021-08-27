@@ -1,0 +1,14 @@
+Target: 80
+Alabama,2490000,9,2
+Alaska,33700,3,3
+Arizona,3262000,11,5
+Arkansas,1262000,6,7
+California,15690000,55,11
+Colorado,2645000,9,13,
+Connecticut,1726000,7,17
+DC,500674,3,19
+Delaware,472000,3,23
+Florida,9435000,29,29
+Georgia,4840000,16,31
+Hawaii,523000,4,37
+Idaho,743000,4,41
