@@ -1,4 +1,15 @@
-Ok im going to copy and paste over some results:
+Final results are a minumum of 22.48% of the population was needed and can be found below. I think their could be a smaller amount but I do not have the computer space or processing power to be certain. 
+
+Test: Resourcefull_Greedy_Find_Fewest(filename="states.txt", kept_values=400)
+A winner has been found
+The vote total is 32956724.0
+The total number of votes is 146591374
+The electoral total is 270
+The states won are   WestVirginia, Delaware, Mississippi, SouthCarolina, RhodeIsland, Alaska, Hawaii, SouthDakota,
+NorthDakota, Idaho, Montana, NewHampshire, Nebraska, Maine, NewMexico, DC, Kansas, Nevada, Utah, Arkansas, Vermont,
+Massachusetts, Oklahoma, Louisiana, Connecticut, Minnesota, Iowa, Tennessee, Indiana, Oregon, Maryland, Alabama,
+Georgia, Arizona, NewJersey, Kentucky, NewYork,
+Percent of Voting Population: 32956724.0/146591374 = 0.22482034993409639505800661913436 or about 22.48%
 
 Test: Resourcefull_Greedy_Find_Fewest(filename="states.txt", kept_values=50)
 A winner has been found
